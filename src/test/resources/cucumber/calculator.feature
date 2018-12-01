@@ -3,7 +3,7 @@ Feature: Calculator
   I want to use a calculator
   So that I don't need to calculate myself
 
-@storykey=PSDDEM-1
+@storykey=PSDDEM-2
 @Run
     Scenario Outline: Add two numbers
     Given I have a calculator
